@@ -65,7 +65,7 @@ export default function AboutUs() {
           <ul>
             <li>ML and data science projects </li>
             <li>
-              Worked on Data Science projects under the guidnace of university
+              Worked on Data Science projects under the guidance of university
               professors
             </li>
           </ul>
