@@ -1,4 +1,3 @@
-import React from "react";
 import Navbar from "../components/Navbar";
 import Linkedin from "../images/linkedin.png";
 import Github from "../images/github.png";

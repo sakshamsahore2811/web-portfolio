@@ -1,4 +1,3 @@
-import React from "react";
 import Navbar from "../components/Navbar";
 import dawaai from "../images/dawa-ai.png";
 import ffi from "../images/ffi.png";
