@@ -2,6 +2,7 @@ import  { useState } from "react";
 import Navbar from "../components/Navbar";
 import saksham from '../images/sakshamm.jpeg';
 import map from '../images/map.png';
+import { FaMapMarkerAlt } from "react-icons/fa";
 
 export default function Home() {
   const [isToggled, setIsToggled] = useState(false);
@@ -46,7 +47,7 @@ export default function Home() {
         <div>
         21, 
         </div>
-        <div><img alt="map" height={20} width={20} src={map}/>
+        <div><FaMapMarkerAlt />
         </div>
         <div>Delhi, India
         </div>

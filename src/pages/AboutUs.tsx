@@ -69,8 +69,13 @@ export default function AboutUs() {
               professors
             </li>
           </ul>
+          
         </div>
+        <br/>
+          <br/>
+          
       </div>
+      <small className="text-white text-center">Saksham Sharma 2024</small>
     </>
   );
 }
