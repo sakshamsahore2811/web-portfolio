@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 
 export default function Navbar() {
   return (
-    <div className="flex justify-between bg-slate-600 p-3 text-white text-xl space-x-80">
+    <div className="flex items-center justify-between bg-slate-600 p-3 text-white text-xl space-x-80">
       <div className="flex-initial">
         Saksham Sharma
       </div>
