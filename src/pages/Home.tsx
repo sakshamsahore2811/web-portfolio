@@ -1,8 +1,6 @@
 import  { useState } from "react";
 import Navbar from "../components/Navbar";
 import saksham from '../images/sakshamm.jpeg';
-import map from '../images/map.png';
-import { FaMapMarkerAlt } from "react-icons/fa";
 
 export default function Home() {
   const [isToggled, setIsToggled] = useState(false);
